@@ -1,7 +1,3 @@
-# Kloppie74 - Portfolio
-
-## Welcome to My Portfolio
-
 **Hi, I'm Kloppie74**, a young developer and entrepreneur from Nijmegen, Netherlands. At just 17 years old, I have already established myself as a creator of innovative solutions for the Minecraft community through my projects MoonStarStudios and MoonNodes.
 
 ---
