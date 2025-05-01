@@ -1,4 +1,4 @@
-**Hi, I'm Kloppie74**, a young developer and entrepreneur from Nijmegen, Netherlands. At just 17 years old, I have already established myself as a creator of innovative solutions for the Minecraft community through my projects MoonStarStudios and MoonNodes.
+**Hi, I'm Kloppie74**, a young developer and entrepreneur from Nijmegen, Netherlands. At just 18 years old, I have already established myself as a creator of innovative solutions for the Minecraft community through my projects MoonStarStudios and MoonNodes.
 
 ---
 
@@ -8,11 +8,11 @@
 
 **Building the Future, One Project at a Time**
 
-I am a 17-year-old developer from Nijmegen, Netherlands. I am the creator of MoonStarStudios and MoonNodes, focusing on building innovative solutions for the Minecraft community.
+I am a 18-year-old developer from Nijmegen, Netherlands. I am the creator of MoonStarStudios and MoonNodes, focusing on building innovative solutions for the Minecraft community.
 
 ### Personal Stats
 - **Location:** Nijmegen, NL
-- **Role:** Full-Stack Developer
+- **Role:** Developer
 
 ---
 
