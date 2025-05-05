@@ -28,15 +28,6 @@ A development studio specializing in custom solutions and Minecraft plugins.
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Ya6NwdEMd6)
 [![Website](https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://moonstarstudios.xyz)
 
-### MoonNodes
-An affordable and reliable server hosting solution with multiple locations.
-
-- **Server Hosting**
-- **24/7 Support**
-- **European Locations**
-
-[![Website](https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://moonnodes.xyz)
-
 ---
 
 ## Skills
