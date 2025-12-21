@@ -1,0 +1,42 @@
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .ground { stroke: #535353; stroke-width: 2; }
+    .dino { fill: #535353; }
+    .cactus { fill: #ff4d4d; }
+    
+    /* Dino Jump Animation */
+    @keyframes jump {
+      0%, 100% { transform: translateY(0); }
+      20% { transform: translateY(-80px); }
+      50% { transform: translateY(-80px); }
+      80% { transform: translateY(0); }
+    }
+    
+    /* Cactus Move Animation */
+    @keyframes move {
+      from { transform: translateX(650px); }
+      to { transform: translateX(-50px); }
+    }
+    
+    .dino-rect {
+      animation: jump 1.5s infinite ease-in-out;
+    }
+    
+    .cactus-rect {
+      animation: move 1.5s infinite linear;
+    }
+  </style>
+
+  <rect width="600" height="200" fill="#f7f7f7" />
+  <line x1="0" y1="180" x2="600" y2="180" class="ground" />
+  
+  <text x="10" y="30" font-family="Courier" font-weight="bold" fill="#535353">DINO-BOT: ACTIVE (24/7)</text>
+
+  <g class="dino-rect">
+    <rect x="50" y="140" width="40" height="40" class="dino" />
+    <rect x="75" y="145" width="10" height="10" fill="white" /> </g>
+
+  <g class="cactus-rect">
+    <rect x="0" y="140" width="20" height="40" class="cactus" />
+  </g>
+</svg>
