@@ -1,44 +1,43 @@
 # Hi, I'm kloppie74 🦖
 
-**Full-stack Developer | Java & Web Expert**
+**Full-stack Developer | Entrepreneur**
 
-Ik focus me op het bouwen van schaalbare applicaties en innovatieve oplossingen met een moderne tech-stack.
+I am a developer with a passion for building innovative solutions. My expertise lies in Java development and modern web technologies.
 
 ---
 
-## 🕹️ 24/7 Auto-Dino Game
-Dit is een automatische versie van de bekende Dino game, gebouwd in HTML/CSS. De dino springt vanzelf over de hindernissen!
-
-> [!TIP]
-> **[Klik hier om de Dino Game live te bekijken](https://jouw-gebruikersnaam.github.io/dino-game/)** (Vervang deze link met je eigen hosting link)
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Running_24/7-brightgreen?style=for-the-badge&logo=google-chrome" />
+  <img src="dino.svg" width="600" alt="Auto Dino Game" />
 </div>
 
 ---
 
 ## 🛠 Skills & Tech Stack
 
-| Technologie | Type |
-| :--- | :--- |
-| **Java** | Backend & Logic |
-| **NextJS / React** | Frontend Frameworks |
-| **CSS / HTML** | UI & Styling |
-| **Docker** | Deployment & Containers |
+### Frameworks & Languages
+* **Backend:** Java
+* **Frontend:** React, NextJS
+* **Styling:** CSS3, HTML5
+* **Infrastructure:** Docker
 
----
-
-## 🚀 Tools
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)
-![React](https://img.icons8.com/color/48/000000/react-native.png)
-![Docker](https://img.icons8.com/color/48/000000/docker.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
+### Tools
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" />
+</p>
 
 ---
 
 ## Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kloppie74)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](kloppie74)
+
+---
+<p align="center">
+  Built with ❤️ by kloppie74
+</p>
