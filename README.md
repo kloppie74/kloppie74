@@ -1,52 +1,44 @@
-**Hi, I'm Kloppie74**, a young developer and entrepreneur from Nijmegen, Netherlands. At just 18 years old, I have already established myself as a creator of innovative solutions for the Minecraft community through my projects MoonStarStudios and MoonNodes.
+# Hi, I'm kloppie74 🦖
+
+**Full-stack Developer | Java & Web Expert**
+
+Ik focus me op het bouwen van schaalbare applicaties en innovatieve oplossingen met een moderne tech-stack.
 
 ---
 
-## About Me
+## 🕹️ 24/7 Auto-Dino Game
+Dit is een automatische versie van de bekende Dino game, gebouwd in HTML/CSS. De dino springt vanzelf over de hindernissen!
 
-**Young Developer & Entrepreneur**
+> [!TIP]
+> **[Klik hier om de Dino Game live te bekijken](https://jouw-gebruikersnaam.github.io/dino-game/)** (Vervang deze link met je eigen hosting link)
 
-**Building the Future, One Project at a Time**
-
-I am a 18-year-old developer from Nijmegen, Netherlands. I am the creator of MoonStarStudios and MoonNodes, focusing on building innovative solutions for the Minecraft community.
-
-### Personal Stats
-- **Location:** Nijmegen, NL
-- **Role:** Developer
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Running_24/7-brightgreen?style=for-the-badge&logo=google-chrome" />
+</div>
 
 ---
 
-## My Projects
+## 🛠 Skills & Tech Stack
 
-### MoonStarStudios
-A development studio specializing in custom solutions and Minecraft plugins.
-
-- **Custom Development**
-- **Minecraft Plugins**
-- **API Services**
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Ya6NwdEMd6)
-[![Website](https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://moonstarstudios.xyz)
+| Technologie | Type |
+| :--- | :--- |
+| **Java** | Backend & Logic |
+| **NextJS / React** | Frontend Frameworks |
+| **CSS / HTML** | UI & Styling |
+| **Docker** | Deployment & Containers |
 
 ---
 
-## Skills
-- **Development:** Full-stack development with a focus on Java and web technologies
-- **Server Management:** Experienced in managing and optimizing server infrastructure
-- **Community Building:** Growing and managing active Discord communities
+## 🚀 Tools
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Docker](https://img.icons8.com/color/48/000000/docker.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
 
 ---
 
 ## Let's Connect!
 
-Interested in collaborating or want to learn more about my projects?
-
-[![MoonStarStudios Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Ya6NwdEMd6)
-
----
-
-## Tools and Technologies
-
-[![JetBrains IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)](https://www.jetbrains.com/idea/)
-[![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com/)
-[![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)](https://nextjs.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kloppie74)
