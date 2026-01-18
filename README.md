@@ -1,7 +1,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="50%">
-      <img src="./images/leafstudios/logo.png" width="120" alt="LeafStudios" />
+      <img src="./images/leafdesigns/logo.png" width="120" alt="LeafStudios" />
       <h3>LeafStudios.org</h3>
       <em>Branching out beyond limits</em>
     </td>
