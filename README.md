@@ -1,47 +1,11 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="50%">
-      <img src="./images/leafdesigns/logo.png" width="120" alt="LeafStudios" />
-      <h3>LeafStudios.org</h3>
-      <em>Branching out beyond limits</em>
-    </td>
-    <td align="center" width="50%">
-      <img src="./images/leafdesigns/logo.png" width="120" alt="LeafDesigns" />
-      <h3>LeafDesigns.org</h3>
-      <em>Deep roots, endless solutions</em>
+      <h3>Play.LocoMC.net</h3>
+      <em>Join our minecraft server today! Via Play.LocoMC.net</em>
     </td>
   </tr>
 </table>
-
-<br />
-
----
-
-### Full-stack Developer
-
-I am a developer with a passion for building innovative solutions. My expertise lies in Java development, backend engineering, and modern web technologies.
-
----
-
-## 💎 Azurea Minestore CMS Theme
-
-<div align="center">
-  <img src="./images/AzureaMinestoreCMSTheme/1.png" alt="Azurea Theme Preview 1" width="100%" />
-  <br /><br />
-  <img src="./images/AzureaMinestoreCMSTheme/2.png" alt="Azurea Theme Preview 2" width="100%" />
-  <br /><br />
-  <img src="./images/AzureaMinestoreCMSTheme/3.png" alt="Azurea Theme Preview 3" width="100%" />
-</div>
-
----
-
-## 🛠 Skills & Tech Stack
-
-### Languages & Frameworks
-* **Languages:** Java, Kotlin, TypeScript
-* **Frontend:** React, NextJS
-* **Styling:** Tailwind CSS, CSS3, HTML5
-* **Infrastructure:** Docker
 
 ### Tools
 <p align="left">
